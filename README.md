@@ -1,0 +1,1 @@
+The bark defect dataset contains 4512 labeled wood veneer images and is divided according to the dataset preparation requirements of the mmsegmentation algorithm library as well as the configuration file of the dominant semantic segmentation dataset in the library.
